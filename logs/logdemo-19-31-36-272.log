@@ -1,0 +1,25 @@
+"18:41:28.616 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""18:41:28.618 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""18:41:28.618 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""18:41:28.618 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""18:41:28.618 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""18:41:28.618 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""18:41:28.618 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""18:41:28.618 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:28:54.174 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:28:54.178 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:28:54.178 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:28:54.178 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:28:54.178 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:28:54.186 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:28:54.186 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:28:54.186 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:30:28.017 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:30:28.023 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:30:28.024 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:30:28.024 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:30:28.024 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:30:28.024 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:30:28.024 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:30:28.024 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+"

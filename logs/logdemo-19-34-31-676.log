@@ -1,0 +1,13 @@
+"19:34:31:669 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:34:31:674 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:34:31:674 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:34:31:675 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:34:31:675 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:34:31:675 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:34:31:675 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:34:31:675 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:34:31:675 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:34:31:675 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+""19:34:31:676 [main] INFO  Log4j2SecondDemo.LoggingSecondDemo - Click is successful
+""19:34:31:676 [main] ERROR Log4j2SecondDemo.LoggingSecondDemo - DB connection failed
+"
